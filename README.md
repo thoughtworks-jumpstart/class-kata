@@ -2,9 +2,7 @@
 
 ### Getting started
 - Fork and clone repo
-- Install dependencies: `yarn install`
 - cd into project directory
-- Start application: `yarn start`
 
 ### Tasks
 
